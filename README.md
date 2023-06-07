@@ -30,7 +30,7 @@ Controllers: Controllers synchronize and control the movement of different actua
 
 
 
-Procedure:
+## Procedure
 
 
 1) Place the given object on table (Workspace).
@@ -40,17 +40,26 @@ Procedure:
 
 
 ## Program 
-// Roll no:
+```
+// Roll no:212222230037
 
-//Name:
+//Name: GOKUL.M
 MoveJ ................
+```
+![pro1](https://github.com/Mukilkumar-SEC/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/119559663/2552d33d-7f32-4df0-8090-b959d8b04d10)
+
+![pro2](https://github.com/Mukilkumar-SEC/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/119559663/ab473455-1c12-4edf-a818-621d4cb8fb7e)
+
+
+![pro3](https://github.com/Mukilkumar-SEC/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/119559663/9d6ae7ad-9027-47e8-abae-bfa67d45f563)
+
+
 
 ## output : 
+![output](https://github.com/Mukilkumar-SEC/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/119559663/508fbc8f-7da1-43ca-a7a6-1aaa21e986bd)
 
 
 ## Results: 
 
-
-
-
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
